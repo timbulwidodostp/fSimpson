@@ -1,6 +1,8 @@
 # fSimpson
 Calculate the Simpson's diversity index Use fSimpson (OnomasticDiversity) With (In) R Software
 
+https://www.youtube.com/watch?v=5x9eEDwkbyg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
